@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ControleDespesasPessoais</string>
+    <string name="despesas">Despesas</string>
+    <string name="pendente">Pendente</string>
+    <string name="paga">Paga</string>
+    <string name="lazer">Lazer</string>
+    <string name="alimentacao">Alimentação</string>
+    <string name="casa">Casa</string>
+    <string name="feira">Feira</string>
+    <string name="esportes">Esportes</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="luz">Luz</string>
+    <string name="agua">Água</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="valor">Valor</string>
+
+    <string-array name="contas">
+        <item>Esportes</item>
+        <item>Restaurante</item>
+        <item>Água</item>
+        <item>Luz</item>
+    </string-array>
+</resources>
